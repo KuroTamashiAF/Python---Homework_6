@@ -38,8 +38,7 @@ print(list(parse(formula_string)))
 import controll
 
 def main():
-    controll.performance()
-
+    controll.compression()
 main()
 
 
